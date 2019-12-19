@@ -1,6 +1,6 @@
 
 
-<img src="./johan.jpg" style="witdh:200px:height:200px">
+<img src="./johan.jpg" style="width:200px:height:200px">
 
 <h1>Datos</h1> 
 Nombre y Apellido: Johan Dario Dávila Loor 
