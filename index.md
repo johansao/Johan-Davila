@@ -1,6 +1,6 @@
 
 
-<img src="./johan.jpg" style="width:200px:height:200px">
+<img src="./johan.jpg" style="width:100px:height:100px">
 
 <h1>Datos</h1> 
 Nombre y Apellido: Johan Dario Dávila Loor 
@@ -30,3 +30,7 @@ Telefono Celular: 0939892732
  2. Seguridad en Administración de Servidores
  <h2>Cursos</h2>
  1. C++-JAVA-PHP-JAVASCRIPT-PYHTON 
+
+La carrera de software es una gran oportunidad para personas que creen que siempre algo se puede mejorar.
+Es global y todo lo que aprendas podra utilizarse en cualquier parte del mundo.
+Y te permite innovar.
